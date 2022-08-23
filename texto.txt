@@ -1,0 +1,18 @@
+{
+  "id": 1804,
+  "category": {
+    "id": 1804,
+    "name": "Dog"
+  },
+  "name": "Rex",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "sef"
+    }
+  ],
+  "status": "sold"
+}
